@@ -3,6 +3,10 @@ models will be saved under models directory.
 
 First, unzip the data file.
 
+Create the models directory:
+
+mkdir models
+
 Use a recent version of Anaconda
 
 Need to install these packages:
